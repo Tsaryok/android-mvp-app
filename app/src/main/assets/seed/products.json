@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Fish",
+    "number": 1,
+    "storeId": 1,
+    "discount": 50,
+    "price": 100
+  },
+  {
+    "name": "Crab",
+    "number": 1,
+    "storeId": 1,
+    "discount": 51,
+    "price": 100
+  },
+  {
+    "name": "Cake",
+    "number": 1,
+    "storeId": 2,
+    "discount": 50,
+    "price": 100
+  },
+  {
+    "name": "Brownie",
+    "number": 1,
+    "storeId": 2,
+    "discount": 50,
+    "price": 100
+  }
+]

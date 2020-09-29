@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "tag": "Bakery"
+  },
+  {
+    "id": 2,
+    "tag": "Confectionery"
+  },
+  {
+    "id": 3,
+    "tag": "Cafe"
+  },
+  {
+    "id": 4,
+    "tag": "Supermarket"
+  }
+]

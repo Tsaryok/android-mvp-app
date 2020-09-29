@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "storeId": 1,
+    "storeTagId": 4
+  },
+  {
+    "id": 2,
+    "storeId": 2,
+    "storeTagId": 1
+  }
+]

@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Walker</string>
+    <string name="title_activity_maps">Walker</string>
+    <string name="discount_text_view">Discounts</string>
+
+    <!--Tags-->
+    <string-array name="store_tags">
+        <item>bakery</item>
+        <item>confectionery</item>
+        <item>restaurant</item>
+    </string-array>
+    <string name="title_bakery">Bakery</string>
+    <string name="title_confectionery">Confectionery</string>
+    <string name="title_restaurant">Restaurant</string>
+
+
+    <string name="api_key">AIzaSyCtTWxjioZkDbCshggFIugXpDyYM99RIwc</string>
+
+    <!--App Message-->
+    <string name="api_retry_error">Please retry!</string>
+    <string name="api_default_error">Something wrong happened!</string>
+    <string name="some_error">Some Error Occurred!</string>
+    <string name="connection_error">Internet connection lost!</string>
+
+    <!--Login-->
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+
+    <!--Registry-->
+    <string name="registry">Registry</string>
+    <string name="name">Name</string>
+    <string name="re_password">Re-password</string>
+    <string name="gender">Gender</string>
+    <string name="birthday">Birthday</string>
+    <string name="done">Done</string>
+    <string name="back">Back</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="save">Save</string>
+
+    <!--Registry Validation-->
+    <string name="busy_login">Login is busy.</string>
+    <string name="empty_name">Name is empty.</string>
+    <string name="empty_date">Date is empty.</string>
+    <string name="empty_gender">Gender is unselected.</string>
+    <string name="wrong_password">Passwords are different or empty.</string>
+    <string name="empty_login">Login is empty.</string>
+
+
+    <!--Login Validation-->
+    <string name="empty_email">Please provide a non empty email.</string>
+    <string name="invalid_email">Please provide a valid email.</string>
+    <string name="empty_password">Please provide a non empty password.</string>
+    <string name="wrong_login_password">Login or password is incorrect.</string>
+
+    <!--play store-->
+    <string name="app_google_play_store_link">"https://play.google.com/store/apps/details?id="</string>
+    <string name="app_market_link">"market://details?id="</string>
+
+    <string name="default_font_path">"fonts/source-sans-pro/SourceSansPro-Regular.ttf"</string>
+
+    <!--Animations-->
+    <integer name="card_flip_duration_full">1000</integer>
+    <integer name="card_flip_duration_half">500</integer>
+
+    <!--Navigation Titles-->
+    <string name="title_offer">Offers</string>
+    <string name="title_stores">Stores</string>
+    <string name="title_profile">Profile</string>
+
+    <!--Profile Activity-->
+    <string-array name="profile_items">
+        <item>edit</item>
+        <item>logout</item>
+    </string-array>
+    <string name="title_logout">Logout</string>
+    <string name="title_edit">Edit</string>
+
+    <!--Maps Fragment-->
+    <string name="search">Search</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!--Filter Store Fragment-->
+    <string name="title_filter">Filter</string>
+    <string name="radius">Max distance</string>
+    <string name="tags">Tags</string>
+    <string name="rating">Min rating</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <!-- Offers Fragment -->
+    <string name="list">List</string>
+    <string name="map">Map</string>
+</resources>

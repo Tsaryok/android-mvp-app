@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Vitalur",
+    "description": "Supermarket",
+    "lat": 53.963892,
+    "lng": 27.742087
+  },
+  {
+    "id": 2,
+    "name": "Euroopt",
+    "description": "Supermarket",
+    "lat": 53.943324,
+    "lng": 27.720276
+  }
+]
